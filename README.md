@@ -20,7 +20,8 @@ You can download the latest release from the [releases page](https://github.com/
 
 ## Usage
 
-![window.png](screenshots/window.png)
+|![window.png](screenshots/window.png)|
+|:--:|
 
 1. Set the path to your AoC directory by clicking on the `Settings/Set Path` button, or you can drag and drop the directory directly onto the window, or you can create a new directory by clicking on the `Tools/Create New Aoc` button. Note that the folder name must be in the format `aocYYYY`, e.g. `aoc2024` for AoC challenges of year 2024.
 
