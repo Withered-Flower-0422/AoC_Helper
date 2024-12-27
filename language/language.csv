@@ -1,0 +1,38 @@
+en,zh
+Year,年份
+Current Path,当前路径
+AoC Helper,AoC助手
+Set Path,设置路径
+Set Cookies,设置Cookies
+Settings,设置
+Create New AoC,新建AoC
+Tools,工具
+English,英语
+Chinese,中文
+Language,语言
+About,关于
+Version,版本
+Author,作者
+Email,邮箱
+Help,帮助
+Create New Day,新建挑战
+Open Newest Part 1,打开最新P1
+Create Part 2,创建P2
+Open Newest Part 2,打开最新P2
+Success,成功
+Error,错误
+Incorrect Cookies,Cookies错误
+No Day Found,未找到任何挑战
+Where to Create,选择创建位置
+Select AoC Folder,选择AoC文件夹
+Enter the year of the AoC challenge:,输入AoC挑战年份：
+Language changed.\nEffective at next startup.,语言已更改。\n下次启动生效。
+Invalid year.\nPlease try again.,年份输入错误。\n请重试。
+already exists.\nPlease try again.,已存在。\n请重试。
+Please set the path first.,请先设置路径。
+New day created successfully!,新挑战创建成功！
+Failed to retrieve the webpage.\nPlease recheck your cookies or the puzzle is not available yet.,无法获取AoC挑战。\n请检查Cookies或挑战尚未发布。
+No "part1.js" found in the last day.,未找到"part1.js"文件。
+No "part2.js" found in the last day.,未找到"part2.js"文件。
+Invalid folder.\nFolder name should be "aoc" with valid year followed.,文件夹名称应为"aoc"加上有效的年份。
+25 puzzles reached.,已集齐25个挑战。

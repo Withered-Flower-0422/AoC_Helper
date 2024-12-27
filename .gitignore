@@ -1,6 +1,5 @@
-**/build/
-**/dist/
-/config/
+/build/
+/dist/
 
 *.code-workspace
 *.spec
