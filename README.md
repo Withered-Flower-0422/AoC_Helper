@@ -4,8 +4,8 @@ This tool can help you manage your [Advent of Code (AoC)](https://adventofcode.c
 
 ## Current Version
 
-- Version: 1.1.0
-- Release Date: 2024-12-19
+- Version: 1.2.0
+- Release Date: 2024-12-28
 
 ## About
 
