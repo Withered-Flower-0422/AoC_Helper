@@ -32,7 +32,7 @@ already exists.\nPlease try again.,已存在。\n请重试。
 Please set the path first.,请先设置路径。
 New day created successfully!,新挑战创建成功！
 Failed to retrieve the webpage.\nPlease recheck your cookies or the puzzle is not available yet.,无法获取AoC挑战。\n请检查Cookies或挑战尚未发布。
-No "part1.js" found in the last day.,未找到"part1.js"文件。
-No "part2.js" found in the last day.,未找到"part2.js"文件。
-Invalid folder.\nFolder name should be "aoc" with valid year followed.,文件夹名称应为"aoc"加上有效的年份。
+"No ""part1.js"" found in the last day.","未找到""part1.js""文件。"
+"No ""part2.js"" found in the last day.","未找到""part2.js""文件。"
+"Invalid folder.\nFolder name should be ""aoc"" with valid year followed.","文件夹名称应为""aoc""加上有效的年份。"
 25 puzzles reached.,已集齐25个挑战。
